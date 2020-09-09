@@ -1,0 +1,3 @@
+include ':internetlib'
+include ':app'
+rootProject.name = "InternetConnectivityListener"
